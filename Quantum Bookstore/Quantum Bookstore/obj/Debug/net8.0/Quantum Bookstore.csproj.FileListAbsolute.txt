@@ -1,0 +1,29 @@
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.AssemblyInfoInputs.cache
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.AssemblyInfo.cs
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.csproj.CoreCompileInputs.cache
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.exe
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.deps.json
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.runtimeconfig.json
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.dll
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.pdb
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.dll
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\refint\Quantum Bookstore.dll
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.pdb
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.genruntimeconfig.cache
+G:\work\Coding\backend\,net api\Projects\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\ref\Quantum Bookstore.dll
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.exe
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.deps.json
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.runtimeconfig.json
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.dll
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.pdb
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.AssemblyInfoInputs.cache
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.AssemblyInfo.cs
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.csproj.CoreCompileInputs.cache
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.sourcelink.json
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.dll
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\refint\Quantum Bookstore.dll
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.pdb
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.genruntimeconfig.cache
+G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\ref\Quantum Bookstore.dll

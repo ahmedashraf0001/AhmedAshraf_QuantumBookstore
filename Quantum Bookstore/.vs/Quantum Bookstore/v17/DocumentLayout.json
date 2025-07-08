@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\work\\Coding\\tasks\\Quantum Bookstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA6F201-149B-48F8-9FA1-8EC77F6D61A4}|Quantum Bookstore\\Quantum Bookstore.csproj|g:\\work\\coding\\tasks\\quantum bookstore\\quantum bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA6F201-149B-48F8-9FA1-8EC77F6D61A4}|Quantum Bookstore\\Quantum Bookstore.csproj|solutionrelative:quantum bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA6F201-149B-48F8-9FA1-8EC77F6D61A4}|Quantum Bookstore\\Quantum Bookstore.csproj|g:\\work\\coding\\tasks\\quantum bookstore\\quantum bookstore\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA6F201-149B-48F8-9FA1-8EC77F6D61A4}|Quantum Bookstore\\Quantum Bookstore.csproj|solutionrelative:quantum bookstore\\services\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1761,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\Program.cs",
+              "RelativeDocumentMoniker": "Quantum Bookstore\\Program.cs",
+              "ToolTip": "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\Program.cs",
+              "RelativeToolTip": "Quantum Bookstore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:31:51.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\Services\\Inventory.cs",
+              "RelativeDocumentMoniker": "Quantum Bookstore\\Services\\Inventory.cs",
+              "ToolTip": "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\Services\\Inventory.cs",
+              "RelativeToolTip": "Quantum Bookstore\\Services\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:31:47.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
