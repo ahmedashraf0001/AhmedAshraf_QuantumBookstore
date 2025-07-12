@@ -44,17 +44,17 @@ The code follows good programming practices:
 var inventory = new Inventory();
 
 // Add some books
-var novel = new Paper_book("978-1234567890", "Great Novel", "John Doe", 
-    29.99m, new DateTime(2023, 6, 15), 50);
-var guide = new Ebook("978-0987654321", "Digital Guide", "Jane Smith", 
-    19.99m, new DateTime(2024, 1, 10), FileType.Pdf);
+var book1 = new Paper_book("ahmed", "intro to C#", "Ahmed ashraf"
+                            , 29.99m, new DateTime(2020, 1, 1), 10);
+var book2 = new Ebook("ziad", "intro to C++", "Ziad hesham", 19.99m
+                            , new DateTime(2019, 5, 15), FileType.Pdf);
 
-inventory.AddToInventory(novel);
-inventory.AddToInventory(guide);
+inventory.AddToInventory(book1);
+inventory.AddToInventory(book2);
 
 // Buy a book
-decimal cost = inventory.BuyBook("978-1234567890", 2, 
-    "customer@email.com", "123 Main Street");
+decimal cost = inventory.BuyBook("ahmed", 2, 
+    "example@email.com", "Cairo, Egypt");
 ```
 
 ## Test Results
