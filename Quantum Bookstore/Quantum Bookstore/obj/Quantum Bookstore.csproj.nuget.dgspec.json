@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\Quantum Bookstore.csproj": {}
+    "C:\\Users\\lyr1c\\Desktop\\New folder (2)\\AhmedAshraf_QuantumBookstore\\Quantum Bookstore\\Quantum Bookstore\\Quantum Bookstore.csproj": {}
   },
   "projects": {
-    "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\Quantum Bookstore.csproj": {
+    "C:\\Users\\lyr1c\\Desktop\\New folder (2)\\AhmedAshraf_QuantumBookstore\\Quantum Bookstore\\Quantum Bookstore\\Quantum Bookstore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\Quantum Bookstore.csproj",
+        "projectUniqueName": "C:\\Users\\lyr1c\\Desktop\\New folder (2)\\AhmedAshraf_QuantumBookstore\\Quantum Bookstore\\Quantum Bookstore\\Quantum Bookstore.csproj",
         "projectName": "Quantum Bookstore",
-        "projectPath": "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\Quantum Bookstore.csproj",
+        "projectPath": "C:\\Users\\lyr1c\\Desktop\\New folder (2)\\AhmedAshraf_QuantumBookstore\\Quantum Bookstore\\Quantum Bookstore\\Quantum Bookstore.csproj",
         "packagesPath": "C:\\Users\\lyr1c\\.nuget\\packages\\",
-        "outputPath": "G:\\work\\Coding\\tasks\\Quantum Bookstore\\Quantum Bookstore\\obj\\",
+        "outputPath": "C:\\Users\\lyr1c\\Desktop\\New folder (2)\\AhmedAshraf_QuantumBookstore\\Quantum Bookstore\\Quantum Bookstore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

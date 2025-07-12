@@ -26,6 +26,11 @@ namespace Quantum_Bookstore.Models
 
         public override decimal Buy(int qty, string email, string addr)
         {
+            if (string.IsNullOrWhiteSpace(email))
+                throw new ArgumentException("provide email to deliver your book.");
+
+            if (string.IsNullOrWhiteSpace(addr))
+                throw new ArgumentException("provide a delivery address.");
             bookDelivery.Deliver(this, email, addr);
             return price * qty;
         }

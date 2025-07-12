@@ -27,3 +27,18 @@ G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\refint
 G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.pdb
 G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.genruntimeconfig.cache
 G:\work\Coding\tasks\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\ref\Quantum Bookstore.dll
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.exe
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.deps.json
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.runtimeconfig.json
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.dll
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\bin\Debug\net8.0\Quantum Bookstore.pdb
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.AssemblyInfoInputs.cache
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.AssemblyInfo.cs
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.sourcelink.json
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.dll
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\refint\Quantum Bookstore.dll
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.pdb
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\Quantum Bookstore.genruntimeconfig.cache
+C:\Users\lyr1c\Desktop\New folder (2)\AhmedAshraf_QuantumBookstore\Quantum Bookstore\Quantum Bookstore\obj\Debug\net8.0\ref\Quantum Bookstore.dll

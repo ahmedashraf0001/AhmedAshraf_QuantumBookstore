@@ -18,10 +18,18 @@ namespace Quantum_Bookstore.Models
 
         public override decimal Buy(int qty, string email, string addr)
         {
-            if (Stock == 0 || qty > Stock) 
-            {
-                throw new InvalidOperationException("Not enough stock.");
-            }
+            if (qty <= 0)
+                throw new ArgumentException("enter a quantity greater than zero.");
+
+            if (string.IsNullOrWhiteSpace(email))
+                throw new ArgumentException("provide email to deliver your book.");
+
+            if (string.IsNullOrWhiteSpace(addr))
+                throw new ArgumentException("provide a delivery address.");
+
+            if (Stock < qty)
+                throw new InvalidOperationException("not enough stock available.");
+
             Stock -= qty;
             bookDelivery.Deliver(this, email, addr);
             return price * qty;
