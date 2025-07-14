@@ -1,6 +1,6 @@
 # Quantum Bookstore System
 
-A simple online bookstore built in C# that manages different types of books and handles deliveries automatically.
+A simple online bookstore built in C# that manages different types of books and handles deliveries.
 
 ## What It Does
 
@@ -9,7 +9,7 @@ This bookstore can handle three types of books:
 - **EBooks** - Digital books sent to your email as files (PDF, DOCX, etc.)
 - **Demo Books** - Free sample books for browsing (no delivery needed)
 
-The cool part? Each book type knows how to deliver itself - paper books automatically use shipping, ebooks use email, and demo books don't need delivery at all.
+Each book type knows how to deliver itself - paper books automatically use shipping, ebooks use email, and demo books don't need delivery at all.
 
 ## Key Features
 
@@ -27,8 +27,6 @@ Instead of writing messy if-else statements for different delivery types, I used
 - `ShippingService` for physical books  
 - `NoDelivery` for demo books
 
-This makes it super easy to add new delivery methods later without breaking existing code.
-
 ## SOLID Principles
 
 The code follows good programming practices:
@@ -37,31 +35,11 @@ The code follows good programming practices:
 - **Interface Segregation** - Small, focused interfaces that make sense
 - **Dependency Inversion** - Classes depend on interfaces, not concrete implementations
 
-## Usage Example
-
-```csharp
-// Set up the bookstore
-var inventory = new Inventory();
-
-// Add some books
-var book1 = new Paper_book("ahmed", "intro to C#", "Ahmed ashraf"
-                            , 29.99m, new DateTime(2020, 1, 1), 10);
-var book2 = new Ebook("ziad", "intro to C++", "Ziad hesham", 19.99m
-                            , new DateTime(2019, 5, 15), FileType.Pdf);
-
-inventory.AddToInventory(book1);
-inventory.AddToInventory(book2);
-
-// Buy a book
-decimal cost = inventory.BuyBook("ahmed", 2, 
-    "example@email.com", "Cairo, Egypt");
-```
 
 ## Test Results
 
 ![Test Results](./test-results.png)
 
-The system has been tested with various scenarios including successful purchases, inventory management, and all the error cases you can think of.
 
 ## Error Handling
 
@@ -80,8 +58,6 @@ The system catches and handles common problems like:
 2. Open in Visual Studio
 3. Build and run the project
 4. Check the console for test results
-
-The code is designed to be easily extensible - you can add new book types or delivery methods without breaking anything that already works.
 
 ---
 
