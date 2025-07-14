@@ -45,7 +45,6 @@ The code follows good programming practices:
 
 ![Test Results](./error-handling.png)
 
-The system catches and handles common problems like:
 - Invalid book information (empty titles, negative prices, future dates)
 - Trying to buy books that don't exist
 - Not enough stock for physical books
@@ -58,7 +57,3 @@ The system catches and handles common problems like:
 2. Open in Visual Studio
 3. Build and run the project
 4. Check the console for test results
-
----
-
-*Built for the Fawry N² Dev Slope #10 Challenge*
