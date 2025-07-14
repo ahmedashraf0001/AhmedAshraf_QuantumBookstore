@@ -9,7 +9,9 @@ This bookstore can handle three types of books:
 - **EBooks** - Digital books sent to your email as files (PDF, DOCX, etc.)
 - **Demo Books** - Free sample books for browsing (no delivery needed)
 
-Each book type knows how to deliver itself - paper books automatically use shipping, ebooks use email, and demo books don't need delivery at all.
+Each book type knows how to deliver itself 
+
+paper books automatically use shipping, ebooks use email, and demo books don't need delivery at all.
 
 ## Key Features
 
